@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\bin\Debug\scserver.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\bin\Debug\scserver.exe
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\bin\Debug\scserver.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\Mobwiz.DesktopShare.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\Mobwiz.DesktopShare.CaptureScreen.resources
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\Mobwiz.DesktopShare.MainForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\Mobwiz.DesktopShare.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\Mobwiz.DesktopShare.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\Mobwiz.DesktopShare.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\scserver.exe
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\scserver.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopShare\obj\Debug\Mobwiz.DesktopShare.csprojAssemblyReference.cache

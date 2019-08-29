@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\bin\Debug\scviewer.exe
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\bin\Debug\scviewer.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\bin\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\Mobwiz.DesktopViewer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\Mobwiz.DesktopViewer.MainForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\Mobwiz.DesktopViewer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\Mobwiz.DesktopViewer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\Mobwiz.DesktopViewer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\scviewer.exe
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\scviewer.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (7)\Mobwiz.DesktopShare\Mobwiz.DesktopViewer\obj\Debug\Mobwiz.DesktopViewer.csprojAssemblyReference.cache
